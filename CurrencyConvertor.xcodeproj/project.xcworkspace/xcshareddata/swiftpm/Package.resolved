@@ -1,0 +1,15 @@
+{
+  "originHash" : "17ad69a9d62bb5214561f4b13adc77420e1190aa388f7c14a5057af4cc73b509",
+  "pins" : [
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e2b0aa8dbbafe1552d3cfbc9b8c8087615762f0c"
+      }
+    }
+  ],
+  "version" : 3
+}
